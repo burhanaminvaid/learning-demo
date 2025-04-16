@@ -1,3 +1,3 @@
 # learning-demo
 created for learning
-<br>Author - Burhan
+<br>Author - Burhan Amin Vaid
